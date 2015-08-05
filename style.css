@@ -1,0 +1,46 @@
+body {
+	width:100%;
+	background-color: lightblue;
+	font-family: 'Oswald', sans-serif;
+}
+#header {
+	background-color: #BDBDBD;
+	text-align: center;
+	padding: none;
+}
+#home {
+	display: inline-block;
+	margin-right: 10px;
+}
+#portfolio {
+	display: inline-block;
+	margin-right: 10px;
+}
+#resume {
+	display: inline-block;
+	margin-right: 10px;
+}
+#about {
+	display: inline-block;
+}
+#content {
+	
+}
+.leftMenu {
+	width: 15%;
+	display: inline-block;
+	border: 1px solid black;
+	margin-right: none;
+	margin-top: 10px;
+	padding: none;
+}
+.main {
+	width: 84%;
+	display: inline-block;
+	border: 1px solid black;
+	height: 500px;
+	padding: none;
+}
+a {
+	text-decoration: none;
+}
